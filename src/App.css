@@ -1,0 +1,164 @@
+* {
+    box-sizing: border-box;
+}
+body .container1 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 20%;
+    background-color: rgba(0, 0, 0, 0.952);
+    color: whitesmoke;
+    border-radius: 10px;
+    padding-bottom: 7px;
+    transition: all 0.3s ease 0s;
+}
+body .container1:hover {
+    box-shadow: 0 8PX 16PX 0 rgba(212, 5, 5);
+}
+/* .card {
+    align-content: center;
+    padding: 0px 20px;
+} */
+.card .logo-card {
+    width: 100%;
+    height: 15vw;
+    padding-left: -0;
+    padding-top: -0px;
+    margin-bottom: 0;
+    border-radius: 8px;
+    background: fixed;
+}
+.carde-btn {
+    font-size: 13px;
+    margin-right: 10px;
+    padding: 0px 15px;
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+
+}
+.cardl-btn {
+    font-size: 13px;
+    margin-right: 10px;
+    padding: 0px 15px;
+    background-color: blue;
+    color: whitesmoke;
+    border-radius: 3px;
+}
+.card .container {
+    padding: 8px 0;
+    text-align: center;
+    margin-bottom: 0;
+}
+.container h4 {
+    margin-top: 2px;
+    margin-bottom: 4px;
+}
+.container p {
+    font-size: 10px;
+    padding-top: 0%;
+    color: white;
+    margin-bottom: 0px;
+}
+.container h5 {
+    font-size: 8px;
+    padding-top: -1%;
+    color: coral;
+}
+/* .logo-card {
+    padding: 60px 80px;
+} */
+
+.sec-one {
+    padding: 0px 20px;
+}
+.sec-one h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-top: 0%;
+}
+.sec-one p {
+    font-size: 10px;
+    margin-top: 4PX;
+}
+
+.sec-two {
+    padding: 0px 20px;
+}
+.sec-two h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-top: 0%;
+}
+.sec-two p {
+    font-size: 10px;
+    margin-top: 4PX;
+}
+
+footer {
+    background-color: black;
+    color: wheat;
+    padding: 0px 30px; 
+    font-size: 12px;
+}
+footer small {
+    font-weight: 34;
+    padding: 8px 0;
+    text-align: center;
+}
+.iconF {
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+    overflow: unset;
+    border: none;
+    box-shadow: 1px 1px 2px #b6a9a9, -1px -1px 2px #ffffff;
+    border-radius: 50%;
+    transition: 0.2;
+    background: #1607f0;
+}
+.iconI {
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+    outline: none;
+    border: none;
+    box-shadow: 1px 1px 2px #b6a9a9, -1px -1px 2px #ffffff;
+    border-radius: 50%;
+    transition: 0.2;
+    background: #b93107;
+}
+.iconT {
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+    outline: none;
+    border: none;
+    box-shadow: 1px 1px 2px #b6a9a9, -1px -1px 2px #ffffff;
+    border-radius: 50%;
+    transition: 0.2;
+    background: #228dbe;
+}
+.iconAll {
+    padding: 8px 0;
+    text-align: center;
+}
+
+.iconF:hover {
+    cursor: pointer;
+    animation-name: pulse;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+.iconI:hover {
+    cursor: pointer;
+    animation-name: pulse;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+.iconT:hover {
+    cursor: pointer;
+    animation-name: pulse;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
