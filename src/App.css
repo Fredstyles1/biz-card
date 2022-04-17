@@ -34,6 +34,7 @@ body .container1:hover {
     background-color: white;
     color: black;
     border-radius: 3px;
+    cursor: pointer;
 
 }
 .cardl-btn {
@@ -43,6 +44,7 @@ body .container1:hover {
     background-color: blue;
     color: whitesmoke;
     border-radius: 3px;
+    cursor: pointer;
 }
 .card .container {
     padding: 8px 0;
