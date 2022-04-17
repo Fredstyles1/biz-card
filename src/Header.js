@@ -4,7 +4,7 @@ import React from "react";
 function Header() {
     return (
     <section className="card">
-        <img src={require('../src/assets/alfred.jpg')} className="logo-card " />
+        <img src={require('../src/assets/photo-fruit-with-water-splash.jpg')} className="logo-card " />
             <div className="container">
                 <h4><b>Femi Alfred</b></h4>
                 <p>Software Developer</p>
